@@ -2,15 +2,15 @@
 
 Jarvis is a Python-based AI Voice Assistant powered by OpenAI that listens to your voice, understands your command, and speaks back intelligent responses.
 
-🔥 Features
-- 🎤 Voice recognition (wake word: "Jarvis")
-- 🧠 AI-powered conversation using OpenAI
-- 🌐 Open websites like Google, YouTube, GitHub, etc.
-- 🎵 Play music using custom music library
-- 📰 Read latest news using News API
-- 🗣️ Text-to-speech voice responses
+Features
+- Voice recognition (wake word: "Jarvis")
+- AI-powered conversation using OpenAI
+- Open websites like Google, YouTube, GitHub, etc.
+- Play music using custom music library
+- Read latest news using News API
+- Text-to-speech voice responses
 
-🧠 Technologies Used
+Technologies Used
 - Python
 - OpenAI API
 - SpeechRecognition
